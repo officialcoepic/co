@@ -1,4 +1,0 @@
-co
-==
-
-Text for Dhamo
